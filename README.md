@@ -1,5 +1,5 @@
-Surya Pratap Singh(19BCG10064)
 Apoorv Shrivastava(19BCG10038)
+Surya Pratap Singh(19BCG10064)
 Poornima Raghuwanshi(19BCE10444)
 Shourya Shekhar Srivastava(20BCE10830)
 
@@ -19,3 +19,4 @@ We can get any specific recipe with number of servings a user has to intake to g
 
 
 
+App link: https://nutrition-demo.herokuapp.com/
